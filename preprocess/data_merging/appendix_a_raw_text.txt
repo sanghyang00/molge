@@ -1,0 +1,1691 @@
+Appendix
+A Omnilingual ASR Language Coverage
+Code Name Res
+aae_Latn Arbëreshë Albanian L
+aal_Latn Afade L
+abb_Latn Bankon L
+abi_Latn Abidji M
+abk_Cyrl Abkhazian M
+abn_Latn Abua L
+abp_Latn Abellen Ayta M
+abr_Latn Abron L
+abs_Latn Ambonese Malay L
+aca_Latn Achagua M
+acd_Latn Gikyode M
+ace_Latn Achinese M
+acf_Latn Saint Lucian Creole French M
+ach_Latn Acoli M
+acm_Arab Mesopotamian Arabic L
+acn_Latn Achang M
+acr_Latn Achi M
+acu_Latn Achuar-Shiwiar M
+acw_Arab Hijazi Arabic M
+ade_Latn Adele M
+adh_Latn Adhola M
+adj_Latn Adioukrou M
+adx_Tibt Amdo Tibetan H
+ady_Cyrl Adyghe M
+aeb_Arab Tunisian Arabic M
+aec_Arab Saidi Arabic L
+aeu_Latn Akeu M
+afb_Arab Gulf Arabic M
+afo_Latn Eloyi L
+afr_Latn Afrikaans H
+agd_Latn Agarabi M
+agg_Latn Angor L
+agn_Latn Agutaynen M
+agr_Latn Aguaruna M
+agu_Latn Aguacateco M
+agx_Cyrl Aghul L
+aha_Latn Ahanta M
+ahk_Latn Akha M
+ahl_Latn Igo L
+ahs_Latn Ashe L
+aia_Latn Arosi M
+ajg_Latn Aja (Benin) L
+aka_Latn Akan M
+akb_Latn Batak Angkola M
+ake_Latn Akawaio M
+akp_Latn Siwu M
+ala_Latn Alago L
+alj_Latn Alangan M
+aln_Latn Gheg Albanian L
+alo_Latn Larike-Wakasihu L
+alp_Latn Alune M
+als_Latn Tosk Albanian M
+alt_Cyrl Southern Altai M
+alz_Latn Alur M
+ame_Latn Yanesha' H
+amf_Latn Hamer-Banna M
+amh_Ethi Amharic H
+ami_Latn Amis H
+amk_Latn Ambai H
+amu_Latn Guerrero Amuzgo L
+anc_Latn Ngas L
+ank_Latn Goemai L
+ann_Latn Obolo M
+anp_Deva Angika L
+anw_Latn Anaang L
+any_Latn Anyin M
+aom_Latn Ömie L
+aoz_Latn Uab Meto L
+apb_Latn Sa'a M
+apc_Arab Levantine Arabic L
+apd_Arab Sudanese Arabic L
+apr_Latn Arop-Lokep M
+arb_Arab Standard Arabic H
+arg_Latn Aragonese M
+arl_Latn Arabela H
+arq_Arab Algerian Arabic L
+ars_Arab Najdi Arabic M
+ary_Arab Moroccan Arabic L
+arz_Arab Egyptian Arabic L
+asa_Latn Asu (Tanzania) M
+asg_Latn Cishingini M
+asm_Beng Assamese H
+ast_Latn Asturian L
+ata_Latn Pele-Ata M
+atb_Latn Zaiwa M
+atg_Latn Ivbie North-Okpela-Arhe M
+ati_Latn Attié M
+atq_Latn Aralle-Tabulahan H
+ava_Cyrl Avaric M
+avn_Latn Avatime M
+avu_Latn Avokaya M
+awa_Deva Awadhi M
+awb_Latn Awa (Papua New Guinea) M
+awo_Latn Awak L
+ayl_Arab Libyan Arabic M
+ayo_Latn Ayoreo H
+ayp_Arab North Mesopotamian Arabic L
+ayr_Latn Central Aymara M
+ayz_Latn Mai Brat L
+aze_Arab Azerbaijani M
+aze_Cyrl Azerbaijani M
+aze_Latn Azerbaijani M
+azg_Latn San Pedro Amuzgos Amuzgo M
+azz_Latn Highland Puebla Nahuatl M
+bag_Latn Tuki L
+bak_Cyrl Bashkir H
+bam_Latn Bambara M
+ban_Latn Balinese M
+bao_Latn Waimaha M
+bas_Latn Basa (Cameroon) L
+bav_Latn Vengo M
+bax_Latn Bamun L
+bba_Latn Baatonum M
+bbb_Latn Barai H
+bbc_Latn Batak Toba M
+bbj_Latn Ghomálá' L
+bbl_Geor Bats L
+bbo_Latn Northern Bobo Madaré M
+bbu_Latn Kulung (Nigeria) L
+bcc_Arab Southern Balochi M
+bcc_Latn Southern Balochi M
+bce_Latn Bamenyam L
+bci_Latn Baoulé L
+bcl_Latn Central Bikol M
+bcs_Latn Kohumono L
+Code Name Res
+bcw_Latn Bana M
+bcy_Latn Bacama L
+bcz_Latn Bainouk-Gunyaamolo L
+bda_Latn Bayot L
+bde_Latn Bade L
+bdg_Latn Bonggi M
+bdh_Latn Baka (South Sudan) H
+bdm_Latn Buduma L
+bdq_Latn Bahnar M
+bdu_Latn Oroko M
+beb_Latn Bebele L
+beh_Latn Biali M
+bel_Cyrl Belarusian H
+bem_Latn Bemba (Zambia) M
+ben_Beng Bengali H
+bep_Latn Besoa M
+bew_Latn Betawi M
+bex_Latn Jur Modo M
+bfa_Latn Bari M
+bfd_Latn Bafut L
+bfo_Latn Malba Birifor M
+bft_Arab Balti M
+bfy_Deva Bagheli M
+bfz_Deva Mahasu Pahari M
+bgc_Deva Haryanvi M
+bgp_Arab Eastern Balochi L
+bgq_Deva Bagri M
+bgr_Latn Bawm Chin M
+bgt_Latn Bughotu M
+bgw_Deva Bhatri M
+bha_Deva Bharia L
+bhb_Deva Bhili L
+bhh_Cyrl Bukharic L
+bho_Deva Bhojpuri L
+bhp_Latn Bima L
+bht_Deva Bhattiyali M
+bhz_Latn Bada (Indonesia) M
+bib_Latn Bissa M
+bim_Latn Bimoba M
+bis_Latn Bislama M
+biv_Latn Southern Birifor M
+bjj_Deva Kanauji L
+bjk_Latn Barok L
+bjn_Latn Banjar L
+bjr_Latn Binumarien H
+bjt_Latn Balanta-Ganja L
+bjv_Latn Bedjond M
+bjw_Latn Bakwé M
+bjz_Latn Baruga M
+bkd_Latn Binukid M
+bkh_Latn Bakoko L
+bkm_Latn Kom (Cameroon) L
+bkv_Latn Bekwarra M
+bky_Latn Bokyi L
+ble_Latn Balanta-Kentohe L
+blh_Latn Kuwaa M
+blt_Latn Tai Dam M
+blx_Latn Mag-Indi Ayta M
+blz_Latn Balantak M
+bmm_Latn Northern Betsimisaraka Malagasy M
+bmq_Latn Bomu M
+bmr_Latn Muinane H
+bmu_Latn Somba-Siawari M
+bmv_Latn Bum M
+bng_Beng Benga M
+bnm_Latn Batanga M
+bnn_Latn Bunun L
+bno_Latn Bantoanon H
+bnp_Latn Bola M
+bns_Deva Bundeli L
+boa_Latn Bora M
+bod_Tibt Tibetan H
+boj_Latn Anjam H
+bom_Latn Berom M
+bor_Latn Borôro H
+bos_Latn Bosnian H
+bou_Latn Bondei L
+bov_Latn Tuwuli M
+box_Latn Buamu M
+bpr_Latn Koronadal Blaan M
+bps_Latn Sarangani Blaan M
+bqc_Latn Boko (Benin) M
+bqg_Latn Bago-Kusuntu L
+bqi_Arab Bakhtiari L
+bqj_Latn Bandial M
+bqp_Latn Busa M
+bra_Deva Braj L
+bre_Latn Breton L
+brh_Arab Brahui M
+bri_Latn Mokpwe L
+bru_Latn Eastern Bru M
+brx_Deva Bodo (India) L
+bsc_Latn Bassari M
+bsh_Arab Kati L
+bsj_Latn Bangwinji L
+bsk_Latn Burushaski L
+bsq_Latn Bassa M
+bss_Latn Akoose M
+bsy_Latn Sabah Bisaya L
+btd_Latn Batak Dairi M
+btm_Latn Batak Mandailing L
+bts_Latn Batak Simalungun M
+btt_Latn Bete-Bendi M
+btv_Arab Bateri L
+btx_Latn Batak Karo M
+bud_Latn Ntcham M
+bug_Latn Buginese L
+bul_Cyrl Bulgarian H
+bum_Latn Bulu (Cameroon) L
+buo_Latn Terei L
+bus_Latn Bokobaru M
+bux_Latn Boghom L
+bvb_Latn Bube L
+bvc_Latn Baelelea M
+bvz_Latn Bauzi H
+bwq_Latn Southern Bobo Madaré M
+bwr_Latn Bura-Pabir L
+bwu_Latn Buli (Ghana) M
+bxf_Latn Bilur L
+bxk_Latn Bukusu L
+byc_Latn Ubaghara L
+byr_Latn Baruya H
+bys_Latn Burak L
+byv_Latn Medumba M
+byx_Latn Qaqet L
+Code Name Res
+bzh_Latn Mapos Buang M
+bzi_Thai Bisu M
+bzj_Latn Belize Kriol English M
+bzw_Latn Basa (Nigeria) L
+caa_Latn Chortí M
+cab_Latn Garifuna M
+cac_Latn Chuj H
+cak_Latn Kaqchikel H
+cap_Latn Chipaya M
+car_Latn Galibi Carib M
+cas_Latn Tsimané M
+cat_Latn Catalan H
+cax_Latn Chiquitano M
+cbc_Latn Carapana M
+cbi_Latn Chachi H
+cbr_Latn Cashibo-Cacataibo H
+cbs_Latn Cashinahua M
+cbt_Latn Chayahuita M
+cbu_Latn Candoshi-Shapra M
+cbv_Latn Cacua M
+cce_Latn Chopi M
+ccg_Latn Samba Daka L
+cco_Latn Comaltepec Chinantec M
+cdj_Deva Churahi M
+cdo_Hans Min Dong Chinese L
+ceb_Latn Cebuano H
+ceg_Latn Chamacoco M
+cek_Latn Eastern Khumi Chin H
+cen_Latn Cen L
+ces_Latn Czech H
+cfa_Latn Dijim-Bwilim L
+cfm_Latn Falam Chin M
+cgc_Latn Kagayanen M
+cgg_Latn Chiga M
+che_Cyrl Chechen M
+chf_Latn Tabasco Chontal L
+chq_Latn Quiotepec Chinantec L
+chv_Cyrl Chuvash M
+chz_Latn Ozumacín Chinantec M
+cjk_Latn Chokwe L
+cjo_Latn Ashéninka Pajonal H
+cjp_Latn Cabécar M
+cjs_Cyrl Shor L
+ckb_Arab Central Kurdish L
+ckl_Latn Cibak L
+cko_Latn Anufo M
+ckr_Latn Kairak L
+ckt_Cyrl Chukot L
+cky_Latn Cakfem-Mushere L
+cla_Latn Ron M
+cle_Latn Lealao Chinantec M
+cly_Latn Eastern Highland Chatino M
+cme_Latn Cerma M
+cmn_Hans Mandarin Chinese H
+cmn_Hant Mandarin Chinese M
+cmo_Khmr Central Mnong M
+cmo_Latn Central Mnong M
+cmr_Latn Mro-Khimi Chin M
+cnh_Latn Hakha Chin M
+cni_Latn Asháninka M
+cnl_Latn Lalana Chinantec M
+cnt_Latn Tepetotutla Chinantec M
+coe_Latn Koreguaje M
+cof_Latn Colorado H
+cok_Latn Santa Teresa Cora H
+con_Latn Cofán M
+cor_Latn Cornish L
+cot_Latn Caquinte H
+cou_Latn Wamey M
+cpa_Latn Palantla Chinantec M
+cpb_Latn Ucayali-Yurúa Ashéninka H
+cpu_Latn Pichis Ashéninka H
+cpx_Hans Pu-Xian Chinese L
+cpy_Latn South Ucayali Ashéninka L
+crh_Cyrl Crimean Tatar M
+crk_Cans Plains Cree M
+crk_Latn Plains Cree M
+crn_Latn El Nayar Cora M
+crq_Latn Iyo'wujwa Chorote H
+crs_Latn Seselwa Creole French M
+crt_Latn Iyojwa'ja Chorote H
+csk_Latn Jola-Kasa M
+cso_Latn Sochiapam Chinantec M
+ctd_Latn Tedim Chin M
+cte_Latn Tepinapa Chinantec L
+ctg_Beng Chittagonian M
+ctl_Latn Tlacoatzintepec Chinantec L
+cto_Latn Emberá-Catío L
+ctu_Latn Chol L
+cuc_Latn Usila Chinantec M
+cui_Latn Cuiba H
+cuk_Latn San Blas Kuna M
+cul_Latn Culina H
+cut_Latn Teutila Cuicatec L
+cux_Latn Tepeuxila Cuicatec L
+cwa_Latn Kabwa H
+cwe_Latn Kwere M
+cwt_Latn Kuwaataay M
+cya_Latn Nopala Chatino M
+cym_Latn Welsh H
+daa_Latn Dangaléat M
+dag_Latn Dagbani L
+dah_Latn Gwahatike H
+dan_Latn Danish H
+dar_Cyrl Dargwa L
+dav_Latn Taita L
+dbd_Latn Dadiya L
+dbj_Latn Ida'an L
+dbq_Latn Daba H
+dcc_Arab Deccan L
+ddn_Latn Dendi (Benin) M
+ded_Latn Dedua M
+deg_Latn Degema L
+des_Latn Desano M
+deu_Latn German H
+dga_Latn Southern Dagaare M
+dgh_Latn Dghwede L
+dgi_Latn Northern Dagara M
+dgk_Latn Dagba M
+dgo_Deva Dogri (individual language) M
+dgr_Latn Dogrib M
+dhi_Deva Dhimal M
+did_Latn Didinga M
+dig_Latn Digo M
+dik_Latn Southwestern Dinka M
+45
+Code Name Res
+dip_Latn Northeastern Dinka M
+div_Thaa Dhivehi L
+dje_Latn Zarma M
+djk_Latn Eastern Maroon Creole M
+dmk_Arab Domaaki L
+dml_Arab Dameli L
+dnj_Latn Dan M
+dnt_Latn Mid Grand Valley Dani H
+dnw_Latn Western Dani H
+dop_Latn Lukpa M
+dos_Latn Dogosé M
+dru_Latn Rukai L
+dsb_Latn Lower Sorbian L
+dsh_Latn Daasanach H
+dtp_Latn Kadazan Dusun H
+dts_Latn Toro So Dogon M
+dty_Deva Dotyali L
+dua_Latn Duala L
+dug_Latn Duruma M
+dwr_Latn Dawro M
+dyi_Latn Djimini Senoufo M
+dyo_Latn Jola-Fonyi M
+dyu_Latn Dyula H
+dzg_Latn Dazaga L
+dzo_Tibt Dzongkha M
+ebu_Latn Embu L
+ego_Latn Eggon L
+eip_Latn Eipomek H
+eiv_Latn Askopan L
+eka_Latn Ekajuk M
+ekk_Latn Standard Estonian H
+eko_Latn Koti L
+ekr_Latn Yace L
+ell_Grek Modern Greek H
+ell_Grek_cypr1249 Cypriot Greek L
+elm_Latn Eleme L
+emp_Latn Northern Emberá M
+enb_Latn Markweeta M
+eng_Latn English H
+enx_Latn Enxet M
+epo_Latn Esperanto H
+ese_Latn Ese Ejja M
+ess_Latn Central Siberian Yupik H
+esu_Latn Central Yupik L
+eto_Latn Eton (Cameroon) L
+ets_Latn Yekhee L
+etu_Latn Ejagham L
+eus_Latn Basque H
+evn_Cyrl Evenki L
+ewe_Latn Ewe H
+ewo_Latn Ewondo M
+eyo_Latn Keiyo L
+eza_Latn Ezaa M
+fal_Latn South Fali M
+fan_Latn Fang (Equatorial Guinea) M
+fao_Latn Faroese H
+far_Latn Fataleka H
+fas_Arab Persian H
+fat_Latn Fanti L
+fia_Latn Nobiin L
+fij_Latn Fijian M
+fil_Latn Filipino H
+fin_Latn Finnish H
+fip_Latn Fipa L
+fkk_Latn Kirya-Konz@l L
+flr_Latn Fuliiru H
+fmp_Latn Fe'fe' L
+fmu_Deva Far Western Muria L
+fon_Latn Fon M
+fra_Latn French H
+frd_Latn Fordata H
+fry_Latn Western Frisian L
+fub_Latn Adamawa Fulfulde M
+fuc_Latn Pulaar L
+fue_Latn Borgu Fulfulde L
+ful_Latn Fulah H
+fuq_Latn Central-Eastern Niger Fulfulde L
+fuv_Latn Nigerian Fulfulde L
+gag_Cyrl Gagauz M
+gag_Latn Gagauz M
+gai_Latn Borei H
+gam_Latn Kandawo M
+gau_Telu Mudhili Gadaba M
+gbi_Latn Galela M
+gbk_Deva Gaddi M
+gbm_Deva Garhwali M
+gbo_Latn Northern Grebo M
+gbr_Latn Gbagyi L
+gby_Latn Gbari L
+gcc_Latn Mali L
+gde_Latn Gude M
+gdf_Latn Guduf-Gava L
+geb_Latn Kire L
+gej_Latn Gen M
+ges_Latn Geser-Gorom L
+ggg_Arab Gurgula L
+gid_Latn Gidar L
+gig_Arab Goaria L
+gil_Latn Gilbertese M
+giz_Latn South Giziga L
+gjk_Arab Kachi Koli M
+gjn_Latn Gonja M
+gju_Arab Gujari L
+gkn_Latn Gokana M
+gld_Cyrl Nanai L
+gle_Latn Irish H
+glg_Latn Galician H
+glk_Arab Gilaki L
+glv_Latn Manx L
+glw_Latn Glavda L
+gmv_Latn Gamo M
+gna_Latn Kaansa M
+gnd_Latn Zulgo-Gemzek M
+gng_Latn Ngangam M
+gof_Latn Gofa M
+gog_Latn Gogo M
+gol_Latn Gola L
+gom_Deva Goan Konkani L
+gor_Latn Gorontalo M
+gqr_Latn Gor M
+grc_Grek Ancient Greek (to 1453) M
+gri_Latn Ghari H
+grn_Latn Guarani M
+grt_Beng Garo M
+gsl_Latn Gusilay L
+gso_Latn Southwest Gbaya M
+gub_Latn Guajajára H
+guc_Latn Wayuu M
+gud_Latn Yocoboué Dida M
+gug_Latn Paraguayan Guaraní M
+guh_Latn Guahibo H
+gui_Latn Eastern Bolivian Guaraní L
+guj_Gujr Gujarati H
+guk_Ethi Gumuz M
+gum_Latn Guambiano M
+guo_Latn Guayabero M
+guq_Latn Aché M
+gur_Latn Farefare M
+guu_Latn Yanomamö M
+gux_Latn Gourmanchéma M
+guz_Latn Gusii L
+gvc_Latn Guanano M
+gvl_Latn Gulay M
+gwc_Arab Gawri L
+gwe_Latn Gweno L
+gwi_Latn Gwich'in M
+gwr_Latn Gwere H
+gwt_Arab Gawar-Bati L
+gym_Latn Ngäbere M
+gyr_Latn Guarayu M
+Code Name Res
+gyz_Latn Geji L
+had_Latn Hatam M
+hag_Latn Hanga M
+hah_Latn Hahon L
+hak_Latn Hakka Chinese M
+hao_Latn Hakö L
+hap_Latn Hupla H
+hat_Latn Haitian H
+hau_Latn Hausa H
+haw_Latn Hawaiian L
+hay_Latn Haya M
+hbb_Latn Huba L
+hch_Latn Huichol L
+heb_Hebr Hebrew H
+heh_Latn Hehe M
+her_Latn Herero L
+hia_Latn Lamang L
+hif_Latn Fiji Hindi M
+hig_Latn Kamwe M
+hil_Latn Hiligaynon M
+hin_Deva Hindi H
+hkk_Latn Hunjara-Kaina Ke L
+hla_Latn Halia L
+hlb_Deva Halbi M
+hlt_Latn Matu Chin M
+hne_Deva Chhattisgarhi H
+hnn_Latn Hanunoo M
+hno_Arab Northern Hindko M
+hns_Latn Caribbean Hindustani M
+hoc_Orya Ho H
+hrv_Latn Croatian H
+hsb_Latn Upper Sorbian L
+hto_Latn Minica Huitoto M
+hub_Latn Huambisa M
+hue_Latn San Francisco Del Mar Huave L
+hui_Latn Huli M
+hul_Latn Hula L
+hun_Latn Hungarian H
+hus_Latn Huastec H
+huu_Latn Murui Huitoto H
+huv_Latn San Mateo Del Mar Huave M
+hux_Latn Nüpode Huitoto L
+hvn_Latn Sabu L
+hwc_Latn Hawai'i Creole English M
+hwo_Latn Hwana L
+hye_Armn Armenian H
+hyw_Armn Western Armenian M
+iba_Latn Iban M
+ibb_Latn Ibibio L
+ibo_Latn Igbo H
+icr_Latn Islander Creole English M
+ida_Latn Idakho-Isukha-Tiriki L
+idd_Latn Ede Idaca M
+idu_Latn Idoma L
+ifa_Latn Amganad Ifugao M
+ifb_Latn Batad Ifugao M
+ife_Latn Ifè H
+ifk_Latn Tuwali Ifugao M
+ifu_Latn Mayoyao Ifugao M
+ify_Latn Keley-I Kallahan M
+igl_Latn Igala L
+ign_Latn Ignaciano M
+ijc_Latn Izon L
+ijn_Latn Kalabari L
+ikk_Latn Ika M
+ikw_Latn Ikwere L
+ilb_Latn Ila M
+ilo_Latn Iloko M
+imo_Latn Imbongu L
+ina_Latn Interlingua L
+inb_Latn Inga M
+ind_Latn Indonesian H
+iou_Latn Tuma-Irumu M
+ipi_Latn Ipili M
+ipk_Latn Inupiaq L
+iqw_Latn Ikwo M
+iri_Latn Rigwe M
+irk_Latn Iraqw M
+ish_Latn Esan L
+isl_Latn Icelandic H
+iso_Latn Isoko L
+ita_Latn Italian H
+itl_Cyrl Itelmen L
+its_Latn Isekiri L
+itv_Latn Itawit M
+itw_Latn Ito L
+itz_Latn Itzá L
+ixl_Latn Ixil H
+izr_Latn Izere M
+izz_Latn Izii M
+jac_Latn Popti' M
+jal_Latn Yalahatan L
+jam_Latn Jamaican Creole English M
+jav_Latn Javanese H
+jax_Latn Jambi Malay L
+jbu_Latn Jukun Takum M
+jen_Latn Dza L
+jic_Latn Tol M
+jiv_Latn Shuar M
+jmc_Latn Machame M
+jmd_Latn Yamdena L
+jmx_Latn Western Juxtlahuaca Mixtec L
+jpn_Jpan Japanese H
+jqr_Latn Jaqaru L
+juk_Latn Wapan L
+jun_Orya Juang H
+juo_Latn Jiba L
+jvn_Latn Caribbean Javanese M
+kaa_Cyrl Kara-Kalpak M
+kab_Latn Kabyle H
+kac_Latn Kachin M
+kai_Latn Karekare L
+kaj_Latn Jju L
+kak_Latn Kalanguya M
+kam_Latn Kamba (Kenya) M
+kan_Knda Kannada H
+kao_Latn Xaasongaxango M
+kaq_Latn Capanahua H
+kas_Arab Kashmiri L
+kat_Geor Georgian H
+kay_Latn Kamayurá L
+kaz_Cyrl Kazakh H
+kbd_Cyrl Kabardian H
+kbl_Latn Kanembu L
+kbo_Latn Keliko H
+kbp_Latn Kabiyè H
+kbq_Latn Kamano M
+kbr_Latn Kafa M
+kbt_Latn Abadi L
+kby_Latn Manga Kanuri L
+kca_Cyrl Khanty L
+kcg_Latn Tyap M
+kcn_Latn Nubi L
+kcq_Latn Kamo L
+kdc_Latn Kutu M
+kde_Latn Makonde M
+kdh_Latn Tem M
+kdi_Latn Kumam M
+kdj_Latn Karamojong M
+kdl_Latn Tsikimba M
+kdn_Latn Kunda M
+kdt_Khmr Kuy M
+kea_Latn Kabuverdianu M
+kek_Latn Kekchí M
+ken_Latn Kenyang M
+keo_Latn Kakwa M
+ker_Latn Kera M
+keu_Latn Akebu L
+key_Telu Kupia M
+kez_Latn Kukele M
+Code Name Res
+kfb_Deva Northwestern Kolami M
+kff_Telu Koya M
+kfk_Deva Kinnauri L
+kfq_Deva Korku L
+kfr_Gujr Kachhi L
+kfw_Latn Kharam Naga M
+kfx_Deva Kullu Pahari M
+kha_Latn Khasi L
+khg_Tibt Khams Tibetan M
+khk_Cyrl Halh Mongolian M
+khm_Khmr Khmer H
+khq_Latn Koyra Chiini Songhay M
+khw_Arab Khowar M
+kia_Latn Kim M
+kij_Latn Kilivila M
+kik_Latn Kikuyu M
+kin_Latn Kinyarwanda H
+kir_Cyrl Kirghiz H
+kix_Latn Khiamniungan Naga L
+kjb_Latn Q'anjob'al M
+kjc_Latn Coastal Konjo L
+kje_Latn Kisar H
+kjg_Latn Khmu L
+kjh_Cyrl Khakas M
+kjk_Latn Highland Konjo L
+kki_Latn Kagulu M
+kkj_Latn Kako M
+kle_Deva Kulung (Nepal) M
+kln_Latn Kalenjin M
+kls_Latn Kalasha L
+klu_Latn Klao M
+klv_Latn Maskelynes M
+klw_Latn Tado L
+kma_Latn Konni M
+kmd_Latn Majukayang Kalinga M
+kml_Latn Tanudan Kalinga M
+kmr_Arab Northern Kurdish M
+kmr_Cyrl Northern Kurdish M
+kmr_Latn Northern Kurdish H
+kmu_Latn Kanite H
+kmy_Latn Koma L
+kna_Latn Dera (Nigeria) L
+knb_Latn Lubuagan Kalinga M
+knc_Latn Central Kanuri L
+kne_Latn Kankanaey M
+knf_Latn Mankanya M
+knj_Latn Western Kanjobal M
+knk_Latn Kuranko M
+knn_Deva Konkani (individual language) L
+kno_Latn Kono (Sierra Leone) M
+kog_Latn Cogui H
+kol_Latn Kol (Papua New Guinea) L
+koo_Latn Konzo M
+kor_Hang Korean H
+kpo_Latn Ikposo L
+kpq_Latn Korupun-Sela H
+kps_Latn Tehit L
+kpv_Cyrl Komi-Zyrian M
+kpy_Cyrl Koryak L
+kpz_Latn Kupsabiny M
+kqe_Latn Kalagan H
+kqo_Latn Eastern Krahn L
+kqp_Latn Kimré M
+kqr_Latn Kimaragang H
+kqy_Ethi Koorete M
+krc_Cyrl Karachay-Balkar M
+kri_Latn Krio M
+krj_Latn Kinaray-A M
+krl_Latn Karelian M
+krr_Khmr Krung L
+krs_Latn Gbaya (Sudan) H
+kru_Deva Kurukh M
+krx_Latn Karon L
+ksb_Latn Shambala M
+ksd_Latn Kuanua L
+ksf_Latn Bafia M
+ksr_Latn Borong H
+kss_Latn Southern Kisi M
+ksz_Deva Kodaku L
+ktb_Ethi Kambaata M
+ktj_Latn Plapo Krumen H
+kto_Latn Kuot L
+kua_Latn Kuanyama L
+kub_Latn Kutep M
+kue_Latn Kuman (Papua New Guinea) M
+kuh_Latn Kushi L
+kum_Cyrl Kumyk M
+kur_Arab Kurdish M
+kus_Latn Kusaal M
+kvn_Latn Border Kuna H
+kvw_Latn Wersing L
+kvx_Arab Parkari Koli L
+kwd_Latn Kwaio H
+kwf_Latn Kwara'ae H
+kwi_Latn Awa-Cuaiquer M
+kwm_Latn Kwambi L
+kxc_Ethi Konso M
+kxf_Latn Manumanaw Karen M
+kxm_Thai Northern Khmer M
+kxp_Arab Wadiyara Koli M
+kyb_Latn Butbut Kalinga M
+kyc_Latn Kyaka M
+kyf_Latn Kouya M
+kyg_Latn Keyagana L
+kyo_Latn Kelon L
+kyq_Latn Kenga M
+kyu_Kali Western Kayah M
+kyx_Latn Rapoisi L
+kyz_Latn Kayabí H
+kzf_Latn Da'a Kaili H
+kzi_Latn Kelabit L
+lac_Latn Lacandon M
+lag_Latn Rangi L
+laj_Latn Lango (Uganda) M
+lam_Latn Lamba M
+lao_Laoo Lao H
+las_Latn Lama (Togo) M
+lat_Latn Latin M
+lav_Latn Latvian H
+law_Latn Lauje H
+lbj_Tibt Ladakhi L
+lbw_Latn Tolaki M
+lcm_Latn Tungag L
+lcp_Thai Western Lawa M
+ldb_Latn D˜uya L
+led_Latn Lendu L
+lee_Latn Lyélé M
+lef_Latn Lelemi M
+lem_Latn Nomaande M
+lew_Latn Ledo Kaili H
+lex_Latn Luang H
+lgg_Latn Lugbara M
+lgl_Latn Wala M
+lhu_Latn Lahu M
+lia_Latn West-Central Limba M
+lid_Latn Nyindrou H
+lif_Deva Limbu M
+lij_Latn Ligurian M
+lin_Latn Lingala H
+lip_Latn Sekpele M
+lir_Latn Liberian English L
+lis_Lisu Lisu M
+lit_Latn Lithuanian H
+lje_Latn Rampi M
+ljp_Latn Lampung Api M
+lkb_Latn Kabras L
+lke_Latn Kenyi L
+lla_Latn Lala-Roba L
+lld_Latn_gherd Ladin (Gherdëina) L
+lld_Latn_valbadia Ladin (Val Badia) L
+46
+Code Name Res
+llg_Latn Lole L
+lln_Latn Lele (Chad) H
+lme_Latn Pévé M
+lnd_Latn Lundayeh M
+lns_Latn Lamnso' M
+lnu_Latn Longuda L
+loa_Latn Loloda L
+lob_Latn Lobi M
+lok_Latn Loko M
+lom_Latn Loma (Liberia) M
+lon_Latn Malawi Lomwe M
+loq_Latn Lobala M
+lrk_Arab Loarki L
+lsi_Latn Lashi M
+lsm_Latn Saamia M
+lss_Arab Lasi L
+ltg_Latn Latgalian L
+lth_Latn Thur L
+lto_Latn Tsotso L
+ltz_Latn Luxembourgish L
+lua_Latn Luba-Lulua L
+luc_Latn Aringa M
+lug_Latn Ganda H
+luo_Latn Luo (Kenya and Tanzania) H
+lus_Latn Lushai L
+lwg_Latn Wanga L
+lwo_Latn Luwo M
+lww_Latn Lewo M
+lzz_Latn Laz L
+maa_Latn San Jerónimo Tecóatl Mazatec M
+mab_Latn Yutanduchi Mixtec L
+mad_Latn Madurese M
+maf_Latn Mafa L
+mag_Deva Magahi M
+mah_Latn Marshallese M
+mai_Deva Maithili M
+maj_Latn Jalapa De Díaz Mazatec M
+mak_Latn Makasar M
+mal_Mlym Malayalam H
+mam_Latn Mam H
+maq_Latn Chiquihuitlán Mazatec L
+mar_Deva Marathi H
+mau_Latn Huautla Mazatec L
+maw_Latn Mampruli M
+max_Latn North Moluccan Malay L
+maz_Latn Central Mazahua M
+mbb_Latn Western Bukidnon Manobo M
+mbc_Latn Macushi H
+mbh_Latn Mangseng M
+mbj_Latn Nadëb M
+mbt_Latn Matigsalug Manobo M
+mbu_Latn Mbula-Bwazza M
+mca_Latn Maca M
+mcb_Latn Machiguenga M
+mcd_Latn Sharanahua H
+mcf_Latn Matsés L
+mco_Latn Coatlán Mixe M
+mcp_Latn Makaa M
+mcq_Latn Ese M
+mcu_Latn Cameroon Mambila M
+mcx_Latn Mpiemo L
+mda_Latn Mada (Nigeria) M
+mdd_Latn Mbum L
+mdv_Latn Santa Lucía Monteverde Mixtec L
+mdy_Ethi Male (Ethiopia) M
+med_Latn Melpa M
+mee_Latn Mengen L
+meh_Latn Southwestern Tlaxiaco Mixtec L
+mej_Latn Meyah H
+mek_Latn Mekeo L
+mel_Latn Central Melanau L
+men_Latn Mende (Sierra Leone) M
+meq_Latn Merey M
+mer_Latn Meru L
+met_Latn Mato M
+meu_Latn Motu L
+mev_Latn Mano M
+mfe_Latn Morisyen M
+mfh_Latn Matal M
+mfi_Latn Wandala M
+mfk_Latn North Mofu M
+mfm_Latn Marghi South L
+mfn_Latn Cross River Mbembe L
+mfo_Latn Mbe L
+mfq_Latn Moba M
+mfv_Latn Mandjak L
+mfy_Latn Mayo M
+mfz_Latn Mabaan M
+mgd_Latn Moru M
+mge_Latn Mango M
+mgg_Latn Mpumpong L
+mgh_Latn Makhuwa-Meetto M
+mgi_Latn Lijili L
+mgo_Latn Meta' M
+mhi_Latn Ma'di M
+mhk_Latn Mungaka L
+mhr_Cyrl Eastern Mari H
+mhu_Latn Digaro-Mishmi L
+mhx_Latn Maru H
+mhy_Latn Ma'anyan M
+mib_Latn Atatláhuca Mixtec H
+mie_Latn Ocotepec Mixtec M
+mif_Latn Mofu-Gudur M
+mig_Latn San Miguel El Grande Mixtec L
+mih_Latn Chayuco Mixtec H
+mil_Latn Peñoles Mixtec H
+mim_Latn Alacatlatzala Mixtec H
+min_Latn Minangkabau M
+mio_Latn Pinotepa Nacional Mixtec M
+mip_Latn Apasco-Apoala Mixtec M
+miq_Latn Mískito M
+mit_Latn Southern Puebla Mixtec M
+miu_Latn Cacaloxtepec Mixtec L
+miy_Latn Ayutla Mixtec M
+miz_Latn Coatzospan Mixtec M
+mjl_Deva Mandeali M
+mjv_Mlym Mannan M
+mkd_Cyrl Macedonian H
+mkf_Latn Miya L
+mki_Arab Dhatki L
+mkl_Latn Mokole M
+mkn_Latn Kupang Malay L
+mlg_Latn Malagasy H
+mlq_Latn Western Maninkakan L
+mlt_Latn Maltese H
+mmc_Latn Michoacán Mazahua L
+mmg_Latn North Ambrym L
+mnb_Latn Muna M
+mne_Latn Naba L
+mnf_Latn Mundani M
+mni_Beng Manipuri L
+mnk_Latn Mandinka M
+mnw_Mymr Mon M
+mnx_Latn Manikion H
+moa_Latn Mwan H
+mog_Latn Mongondow M
+mon_Cyrl Mongolian M
+mop_Latn Mopán Maya M
+mor_Latn Moro M
+mos_Latn Mossi M
+mox_Latn Molima M
+moz_Latn Mukulu M
+mpg_Latn Marba M
+mpm_Latn Yosondúa Mixtec H
+mpp_Latn Migabac M
+mpx_Latn Misima-Panaeati M
+mqb_Latn Mbuko M
+mqf_Latn Momuna H
+mqj_Latn Mamasa M
+mqn_Latn Moronene M
+Code Name Res
+mqy_Latn Manggarai L
+mri_Latn Maori M
+mrj_Cyrl Western Mari M
+mrr_Deva Maria (India) L
+mrt_Latn Marghi Central L
+mrw_Latn Maranao M
+msh_Latn Masikoro Malagasy L
+msi_Latn Sabah Malay M
+msw_Latn Mansoanka L
+msy_Latn Aruamu M
+mtd_Latn Mualang L
+mtj_Latn Moskona H
+mto_Latn Totontepec Mixe H
+mtr_Deva Mewari L
+mtu_Latn Tututepec Mixtec L
+mtx_Latn Tidaá Mixtec L
+mua_Latn Mundang L
+mug_Latn Musgu L
+muh_Latn Mündü M
+mui_Latn Musi L
+mup_Deva Malvi M
+mur_Latn Murle M
+muv_Mlym Muthuvan M
+muy_Latn Muyang M
+mve_Arab Marwari (Pakistan) L
+mvp_Latn Duri M
+mvy_Arab Indus Kohistani M
+mwq_Latn Mün Chin M
+mwv_Latn Mentawai M
+mxb_Latn Tezoatlán Mixtec H
+mxq_Latn Juquila Mixe M
+mxs_Latn Huitepec Mixtec L
+mxt_Latn Jamiltepec Mixtec M
+mxu_Latn Mada (Cameroon) L
+mxv_Latn Metlatónoc Mixtec M
+mxy_Latn Southeastern Nochixtlán Mixtec L
+mya_Mymr Burmese H
+myb_Latn Mbay M
+myk_Latn Mamara Senoufo M
+myv_Cyrl Erzya M
+myx_Latn Masaaba M
+myy_Latn Macuna H
+mza_Latn Santa María Zacatepec Mixtec M
+mzi_Latn Ixcatlán Mazatec M
+mzj_Latn Manya M
+mzk_Latn Nigeria Mambila M
+mzl_Latn Mazatlán Mixe L
+mzm_Latn Mumuye M
+mzw_Latn Deg M
+nab_Latn Southern Nambikuára M
+nag_Latn Naga Pidgin M
+nal_Latn Nalik L
+nan_Latn Min Nan Chinese M
+nap_Latn Neapolitan L
+nas_Latn Naasioi M
+naw_Latn Nawuri M
+nbh_Latn Ngamo L
+nca_Latn Iyo M
+ncf_Latn Notsi L
+nch_Latn Central Huasteca Nahuatl M
+ncj_Latn Northern Puebla Nahuatl M
+ncl_Latn Michoacán Nahuatl L
+nco_Latn Sibe L
+ncu_Latn Chumburung M
+ncx_Latn Central Puebla Nahuatl L
+ndi_Latn Samba Leko L
+ndj_Latn Ndamba M
+ndo_Latn Ndonga L
+ndp_Latn Ndo M
+ndv_Latn Ndut M
+ndy_Latn Lutos M
+ndz_Latn Ndogo M
+neb_Latn Toura (Côte d'Ivoire) M
+nep_Deva Nepali (macrolanguage) M
+new_Deva Newari M
+nfa_Latn Dhao L
+nfr_Latn Nafaanra M
+nga_Latn Ngbaka M
+ngi_Latn Ngizim L
+ngl_Latn Lomwe M
+ngp_Latn Ngulu M
+ngu_Latn Guerrero Nahuatl M
+nhe_Latn Eastern Huasteca Nahuatl M
+nhg_Latn Tetelcingo Nahuatl L
+nhi_Latn Zacatlán-Ahuacatlán-Tepetzintla Nahuatl M
+nhn_Latn Central Nahuatl L
+nhq_Latn Huaxcaleca Nahuatl L
+nhu_Latn Noone M
+nhw_Latn Western Huasteca Nahuatl M
+nhx_Latn Isthmus-Mecayapan Nahuatl H
+nhy_Latn Northern Oaxaca Nahuatl M
+nia_Latn Nias M
+nij_Latn Ngaju M
+nim_Latn Nilamba M
+nin_Latn Ninzo M
+nja_Latn Nzanyi L
+nko_Latn Nkonya M
+nla_Latn Ngombale L
+nlc_Latn Nalca H
+nld_Latn Dutch H
+nlg_Latn Gela H
+nlk_Latn Ninia Yali H
+nlv_Latn Orizaba Nahuatl L
+nmg_Latn Kwasio L
+nmz_Latn Nawdm M
+nnb_Latn Nande M
+nnh_Latn Ngiemboon M
+nnq_Latn Ngindo M
+nnw_Latn Southern Nuni M
+noa_Latn Woun Meu M
+nob_Latn Norwegian Bokmål H
+nod_Thai Northern Thai M
+noe_Deva Nimadi L
+nog_Cyrl Nogai M
+not_Latn Nomatsiguenga H
+npl_Latn Southeastern Puebla Nahuatl M
+npy_Latn Napu M
+nso_Latn Pedi M
+nst_Latn Tase Naga M
+nsu_Latn Sierra Negra Nahuatl M
+ntm_Latn Nateni M
+ntr_Latn Delo M
+nuj_Latn Nyole M
+nup_Latn Nupe-Nupe-Tako L
+nus_Latn Nuer M
+nuz_Latn Tlamacazapa Nahuatl L
+nwb_Latn Nyabwa M
+nxq_Latn Naxi H
+nya_Latn Nyanja M
+nyf_Latn Giryama M
+nyn_Latn Nyankole M
+nyo_Latn Nyoro M
+nyu_Latn Nyungwe L
+nyy_Latn Nyakyusa-Ngonde M
+nzi_Latn Nzima M
+obo_Latn Obo Manobo H
+oci_Latn Occitan M
+odk_Arab Od M
+odu_Latn Odual L
+ogo_Latn Khana L
+ojb_Cans Northwestern Ojibwa M
+ojb_Latn Northwestern Ojibwa M
+oku_Latn Oku M
+old_Latn Mochi M
+omw_Latn South Tairora H
+onb_Latn Lingao M
+ood_Latn Tohono O'odham M
+orc_Latn Orma M
+orm_Latn Oromo M
+oru_Arab Ormuri M
+Code Name Res
+ory_Orya Odia H
+oss_Cyrl Ossetian M
+ote_Latn Mezquital Otomi M
+otq_Latn Querétaro Otomi M
+ozm_Latn Koonzime M
+pab_Latn Parecís M
+pad_Latn Paumarí M
+pag_Latn Pangasinan M
+pam_Latn Pampanga M
+pan_Guru Panjabi H
+pao_Latn Northern Paiute M
+pap_Latn Papiamento M
+pau_Latn Palauan M
+pbb_Latn Páez M
+pbc_Latn Patamona M
+pbi_Latn Parkwa M
+pbs_Latn Central Pame L
+pbt_Arab Southern Pashto L
+pbu_Arab Northern Pashto L
+pce_Thai Ruching Palaung M
+pcm_Latn Nigerian Pidgin M
+pex_Latn Petats L
+pez_Latn Eastern Penan M
+phl_Arab Phalura M
+phr_Arab Pahari-Potwari M
+pib_Latn Yine M
+pil_Latn Yom M
+pip_Latn Pero L
+pir_Latn Piratapuyo M
+pis_Latn Pijin M
+piy_Latn Piya-Kwonci L
+pjt_Latn Pitjantjatjara H
+pkb_Latn Pokomo M
+pko_Latn Pökoot L
+plk_Arab Kohistani Shina M
+pls_Latn San Marcos Tlacoyalco Popoloca M
+plt_Latn Plateau Malagasy M
+plw_Latn Brooke's Point Palawano M
+pmf_Latn Pamona M
+pmq_Latn Northern Pame L
+pms_Latn Piemontese L
+pmy_Latn Papuan Malay L
+pnb_Arab Western Panjabi L
+pne_Latn Western Penan L
+pny_Latn Pinyin M
+poc_Latn Poqomam L
+poe_Latn San Juan Atzingo Popoloca L
+poh_Latn Poqomchi' H
+poi_Latn Highland Popoluca M
+pol_Latn Polish H
+por_Latn Portuguese H
+pov_Latn Upper Guinea Crioulo L
+pow_Latn San Felipe Otlaltepec Popoloca L
+poy_Latn Pogolo M
+ppk_Latn Uma H
+pps_Latn San Luís Temalacayuca Popoloca M
+prf_Latn Paranan M
+prk_Latn Parauk M
+prq_Latn Ashéninka Perené L
+prt_Thai Phai H
+pse_Latn Central Malay M
+pss_Latn Kaulong H
+pst_Arab Central Pashto H
+ptu_Latn Bambam M
+pua_Latn Western Highland Purepecha L
+pui_Latn Puinave M
+pus_Arab Pushto M
+pwg_Latn Gapapaiwa H
+pwn_Latn Paiwan M
+pww_Thai Pwo Northern Karen M
+pxm_Latn Quetzaltepec Mixe M
+qub_Latn Huallaga Huánuco QuechM
+quc_Latn K'iche' H
+quf_Latn Lambayeque Quechua M
+qug_Latn Chimborazo Highland Quichua L
+quh_Latn South Bolivian Quechua H
+qul_Latn North Bolivian Quechua M
+qum_Latn Sipacapense L
+qup_Latn Southern Pastaza Quechua L
+qur_Latn Yanahuanca Pasco Quechua L
+qus_Latn Santiago del Estero Quichua L
+quv_Latn Sacapulteco L
+quw_Latn Tena Lowland Quichua M
+qux_Latn Yauyos Quechua L
+quy_Latn Ayacucho Quechua M
+quz_Latn Cusco Quechua M
+qva_Latn Ambo-Pasco Quechua L
+qvc_Latn Cajamarca Quechua M
+qve_Latn Eastern Apurímac Quechua M
+qvh_Latn Huamalíes-Dos de Mayo Huánuco Quechua M
+qvi_Latn Imbabura Highland Quichua L
+qvj_Latn Loja Highland Quichua L
+qvl_Latn Cajatambo North Lima Quechua L
+qvm_Latn Margos-Yarowilca-Lauricocha Quechua M
+qvn_Latn North Junín Quechua M
+qvo_Latn Napo Lowland Quechua M
+qvs_Latn San Martín Quechua M
+qvw_Latn Huaylla Wanca Quechua M
+qvz_Latn Northern Pastaza Quichua M
+qwa_Latn Corongo Ancash Quechua L
+qwh_Latn Huaylas Ancash Quechua M
+qws_Latn Sihuas Ancash Quechua L
+qxa_Latn Chiquián Ancash Quechua L
+qxh_Latn Panao Huánuco Quechua M
+qxl_Latn Salasaca Highland Quichua M
+qxn_Latn Northern Conchucos Ancash Quechua M
+qxo_Latn Southern Conchucos Ancash Quechua M
+qxp_Latn Puno Quechua L
+qxr_Latn Cañar Highland Quichua M
+qxt_Latn Santa Ana de Tusi Pasco Quechua L
+qxu_Latn Arequipa-La Unión Quechua L
+qxw_Latn Jauja Wanca Quechua L
+rag_Latn Logooli L
+rah_Beng Rabha L
+rai_Latn Ramoaaina M
+rap_Latn Rapanui M
+rav_Deva Sampang M
+raw_Latn Rawang M
+rej_Latn Rejang M
+rel_Latn Rendille M
+rgu_Latn Ringgou L
+rhg_Latn Rohingya L
+rif_Arab Tarifit M
+rif_Latn Tarifit M
+rim_Latn Nyaturu M
+rjs_Deva Rajbanshi M
+rkt_Beng Rangpuri M
+rmc_Cyrl Carpathian Romani L
+rmc_Latn Carpathian Romani M
+rmo_Latn Sinte Romani M
+rmy_Cyrl Vlax Romani L
+rmy_Latn Vlax Romani M
+rng_Latn Ronga M
+rnl_Latn Ranglong M
+rob_Latn Tae' L
+rof_Latn Rombo M
+roh_Latn_surs1244 Romansh (Sursilvan) L
+rol_Latn Romblomanon M
+ron_Latn Romanian H
+roo_Latn Rotokas L
+rop_Latn Kriol L
+rro_Latn Waima M
+rth_Latn Ratahan L
+rub_Latn Gungu H
+ruc_Latn Ruuli L
+ruf_Latn Luguru M
+rug_Latn Roviana M
+run_Latn Rundi M
+rus_Cyrl Russian H
+rwm_Latn Amba (Uganda) L
+47
+Code Name Res
+rwr_Deva Marwari (India) L
+sab_Latn Buglere M
+sag_Latn Sango M
+sah_Cyrl Yakut M
+saj_Latn Sahu M
+saq_Latn Samburu M
+sas_Latn Sasak M
+sau_Latn Saleman L
+say_Latn Saya L
+sba_Latn Ngambay M
+sbd_Latn Southern Samo M
+sbl_Latn Botolan Sambal M
+sbn_Arab Sindhi Bhil L
+sbp_Latn Sangu (Tanzania) H
+sch_Latn Sakachep M
+sck_Deva Sadri M
+scl_Arab Shina L
+scn_Latn Sicilian L
+sco_Latn Scots L
+sda_Latn Toraja-Sa'dan M
+sdo_Latn Bukar-Sadung Bidayuh L
+sea_Latn Semai L
+seh_Latn Sena M
+sei_Latn Seri L
+ses_Latn Koyraboro Senni Songhai M
+sey_Latn Secoya H
+sgb_Latn Mag-antsi Ayta M
+sgj_Deva Surgujia M
+sgw_Ethi Sebat Bet Gurage M
+shi_Latn Tachelhit M
+shk_Latn Shilluk M
+shn_Mymr Shan M
+sho_Latn Shanga M
+shp_Latn Shipibo-Conibo M
+sid_Latn Sidamo M
+sig_Latn Paasaal M
+sil_Latn Tumulung Sisaala M
+sin_Sinh Sinhala L
+sip_Tibt Sikkimese L
+siw_Latn Siwai L
+sja_Latn Epena M
+sjm_Latn Mapun M
+sjp_Deva Surjapuri L
+sjr_Latn Siar-Lak L
+skg_Latn Sakalava Malagasy L
+skr_Arab Saraiki L
+sld_Latn Sissala M
+slk_Latn Slovak H
+slu_Latn Selaru L
+slv_Latn Slovenian H
+sml_Latn Central Sama M
+smo_Latn Samoan M
+sna_Latn Shona M
+snc_Latn Sinaugoro L
+snd_Arab Sindhi M
+sne_Latn Bau Bidayuh M
+snk_Latn Soninke L
+snn_Latn Siona H
+snp_Latn Siane M
+snv_Latn Sa'ban L
+snw_Latn Selee M
+sol_Latn Solos L
+som_Latn Somali H
+soy_Latn Miyobe M
+spa_Latn Spanish H
+spp_Latn Supyire Senoufo M
+sps_Latn Saposa L
+spy_Latn Sabaot M
+src_Latn Logudorese Sardinian L
+srd_Latn Sardinian L
+sri_Latn Siriano M
+srm_Latn Saramaccan M
+srn_Latn Sranan Tongo M
+sro_Latn Campidanese Sardinian L
+srp_Cyrl Serbian H
+srr_Latn Serer L
+srx_Deva Sirmauri M
+ssi_Arab Sansi L
+ste_Latn Liana-Seti L
+stn_Latn Owa H
+stp_Latn Southeastern Tepehuan M
+sua_Latn Sulka L
+suc_Latn Western Subanon M
+suk_Latn Sukuma M
+sun_Latn Sundanese H
+sur_Latn Mwaghavul M
+sus_Latn Susu M
+suv_Latn Puroik L
+suz_Deva Sunwar M
+sva_Geor Svan M
+swe_Latn Swedish H
+swh_Latn Swahili (individual language) H
+swv_Deva Shekhawati L
+sxb_Latn Suba H
+sxn_Latn Sangir M
+sya_Latn Siang L
+syl_Latn Sylheti L
+sza_Latn Semelai L
+szy_Latn Sakizaya M
+tac_Latn Lowland Tarahumara M
+taj_Deva Eastern Tamang M
+tam_Taml Tamil H
+tan_Latn Tangale L
+tao_Latn Yami H
+tap_Latn Taabwa M
+taq_Latn Tamasheq M
+tar_Latn Central Tarahumara L
+tat_Cyrl Tatar M
+tav_Latn Tatuyo H
+tay_Latn Atayal L
+tbc_Latn Takia M
+tbf_Latn Mandara L
+tbg_Latn North Tairora M
+tbk_Latn Calamian Tagbanwa H
+tbl_Latn Tboli H
+tby_Latn Tabaru M
+tbz_Latn Ditammari M
+tca_Latn Ticuna M
+tcc_Latn Datooga M
+tcf_Latn Malinaltepec Me'phaa L
+tcy_Mlym Tulu L
+tcz_Latn Thado Chin L
+tdj_Latn Tajio L
+tdn_Latn Tondano L
+tdx_Latn Tandroy-Mahafaly Malagasy L
+ted_Latn Tepo Krumen M
+tee_Latn Huehuetla Tepehua M
+tel_Telu Telugu H
+tem_Latn Timne M
+teo_Latn Teso M
+ter_Latn Tereno M
+tew_Latn Tewa (USA) M
+tex_Latn Tennet M
+Code Name Res
+tfr_Latn Teribe M
+tgc_Latn Tigak L
+tgj_Latn Tagin H
+tgk_Cyrl Tajik H
+tgl_Latn Tagalog L
+tgo_Latn Sudest M
+tgp_Latn Tangoa M
+tha_Thai Thai H
+the_Deva Chitwania Tharu L
+thk_Latn Tharaka M
+thl_Deva Dangaura Tharu M
+thq_Deva Kochila Tharu L
+thr_Deva Rana Tharu L
+thv_Tfng Tahaggart Tamahaq L
+tig_Ethi Tigre L
+tih_Latn Timugon Murut M
+tik_Latn Tikar M
+tio_Latn Teop L
+tir_Ethi Tigrinya M
+tkg_Latn Tesaka Malagasy M
+tkr_Latn Tsakhur L
+tkt_Deva Kathoriya Tharu L
+tlb_Latn Tobelo H
+tli_Latn Tlingit L
+tlj_Latn Talinga-Bwisi M
+tlp_Latn Filomena Mata-Coahuitlán Totonac L
+tly_Latn Talysh M
+tmc_Latn Tumak M
+tmf_Latn Toba-Maskoy H
+tna_Latn Tacana H
+tng_Latn Tobanga M
+tnk_Latn Kwamera M
+tnn_Latn North Tanna M
+tnp_Latn Whitesands L
+tnr_Latn Ménik H
+tnt_Latn Tontemboan H
+tob_Latn Toba H
+toc_Latn Coyutla Totonac M
+toh_Latn Gitonga M
+tok_Latn Toki Pona L
+tom_Latn Tombulu M
+top_Latn Papantla Totonac L
+tos_Latn Highland Totonac M
+tpi_Latn Tok Pisin H
+tpl_Latn Tlacoapa Me'phaa L
+tpm_Latn Tampulma M
+tpp_Latn Pisaflores Tepehua M
+tpt_Latn Tlachichilco Tepehua M
+tpz_Latn Tinputz L
+tqp_Latn Tomoip L
+trc_Latn Copala Triqui M
+tri_Latn Trió M
+trn_Latn Trinitario M
+trp_Latn Kok Borok L
+trq_Latn San Martín Itunyoso Triqui L
+trs_Latn Chicahuaxtla Triqui M
+trv_Latn Sediq L
+trw_Arab Torwali M
+tsn_Latn Tswana L
+tso_Latn Tsonga M
+tsz_Latn Purepecha M
+ttc_Latn Tektiteko H
+tte_Latn Bwanabwana M
+ttj_Latn Tooro M
+ttq_Tfng Tawallammat Tamajaq M
+ttr_Latn Tera L
+ttu_Latn Torau L
+tue_Latn Tuyuca M
+tuf_Latn Central Tunebo H
+tui_Latn Tupuri L
+tuk_Arab Turkmen M
+tuk_Latn Turkmen M
+tul_Latn Tula L
+tuo_Latn Tucano M
+tuq_Latn Tedaga L
+tur_Latn Turkish H
+tuv_Latn Turkana L
+tuy_Latn Tugen L
+tvo_Latn Tidore L
+tvu_Latn Tunen L
+tvw_Latn Sedoa H
+twb_Latn Western Tawbuid M
+twe_Latn Tewa (Indonesia) L
+twu_Latn Termanu M
+txa_Latn Tombonuo M
+txq_Latn Tii M
+txs_Latn Tonsea L
+txu_Latn Kayapó H
+txy_Latn Tanosy Malagasy L
+tye_Latn Kyanga M
+tzh_Latn Tzeltal M
+tzj_Latn Tz'utujil H
+tzo_Latn Tzotzil M
+ubl_Latn Buhi'non Bikol M
+ubu_Latn Umbu-Ungu H
+udl_Latn Wuzlam L
+udm_Cyrl Udmurt M
+udu_Latn Uduk M
+uig_Arab Uighur H
+uig_Cyrl Uighur M
+uki_Orya Kui (India) L
+ukr_Cyrl Ukrainian H
+ukv_Latn Kuku L
+umb_Latn Umbundu M
+upv_Latn Uripiv-Wala-Rano-Atchin M
+ura_Latn Urarina M
+urb_Latn Urubú-Kaapor H
+urd_Arab Urdu H
+urd_Deva Urdu M
+urd_Latn Urdu M
+urh_Latn Urhobo L
+urk_Thai Urak Lawoi' M
+urt_Latn Urat H
+ury_Latn Orya H
+ush_Arab Ushojo L
+usp_Latn Uspanteco M
+uzb_Cyrl Uzbek H
+uzb_Latn Uzbek H
+uzn_Latn Northern Uzbek M
+vag_Latn Vagla M
+vah_Deva Varhadi-Nagpuri L
+vai_Latn Vai L
+var_Latn Huarijio L
+ver_Latn Mom Jango L
+vid_Latn Vidunda M
+vie_Latn Vietnamese H
+vif_Latn Vili M
+vmc_Latn Juxtlahuaca Mixtec L
+vmj_Latn Ixtayutla Mixtec L
+vmm_Latn Mitlatongo Mixtec L
+vmp_Latn Soyaltepec Mazatec L
+vmw_Latn Makhuwa M
+vmy_Latn Ayautla Mazatec M
+Code Name Res
+vmz_Latn Mazatlán Mazatec L
+vro_Latn Võro L
+vun_Latn Vunjo M
+vut_Latn Vute M
+wal_Ethi Wolaytta M
+wal_Latn Wolaytta M
+wap_Latn Wapishana H
+war_Latn Waray (Philippines) M
+waw_Latn Waiwai M
+way_Latn Wayana M
+wba_Latn Warao M
+wbl_Latn Wakhi L
+wbr_Deva Wagdi L
+wci_Latn Waci Gbe L
+weo_Latn Wemale L
+wes_Latn Cameroon Pidgin L
+wja_Latn Waja L
+wji_Latn Warji L
+wlo_Latn Wolio L
+wlx_Latn Wali (Ghana) M
+wmw_Latn Mwani M
+wob_Latn Wè Northern M
+wof_Latn Gambian Wolof L
+wol_Latn Wolof M
+wsg_Telu Adilabad Gondi M
+wwa_Latn Waama M
+xal_Cyrl Kalmyk M
+xdy_Latn Malayic Dayak L
+xed_Latn Hdi M
+xer_Latn Xerénte L
+xhe_Arab Khetrani L
+xho_Latn Xhosa M
+xka_Arab Kalkoti L
+xkl_Latn Mainstream Kenyah L
+xmf_Geor Mingrelian L
+xmm_Latn Manado Malay H
+xmv_Latn Antankarana Malagasy M
+xnj_Latn Ngoni (Tanzania) M
+xnr_Deva Kangri M
+xog_Latn Soga M
+xon_Latn Konkomba M
+xpe_Latn Liberia Kpelle L
+xrb_Latn Eastern Karaboro M
+xsb_Latn Sambal M
+xsm_Latn Kasem M
+xsr_Deva Sherpa M
+xsu_Latn Sanumá M
+xta_Latn Alcozauca Mixtec L
+xtd_Latn Diuxi-Tilantongo Mixtec H
+xte_Latn Ketengban H
+xti_Latn Sinicahua Mixtec L
+xtm_Latn Magdalena Peñasco Mixtec H
+xtn_Latn Northern Tlaxiaco Mixtec M
+xtu_Latn Cuyamecalco Mixtec L
+xua_Taml Alu Kurumba L
+xuo_Latn Kuo M
+yaa_Latn Yaminahua M
+yad_Latn Yagua M
+yal_Latn Yalunka M
+yam_Latn Yamba M
+yao_Latn Yao M
+yaq_Latn Yaqui L
+yas_Latn Nugunu (Cameroon) M
+yat_Latn Yambeta M
+yav_Latn Yangben L
+yay_Latn Agwagwune L
+yaz_Latn Lokaa H
+yba_Latn Yala M
+ybb_Latn Yemba M
+ycl_Latn Lolopo H
+ycn_Latn Yucuna M
+ydd_Hebr Eastern Yiddish M
+ydg_Arab Yidgha L
+yea_Mlym Ravula M
+yer_Latn Tarok L
+yes_Latn Nyankpa L
+yka_Latn Yakan M
+yli_Latn Angguruk Yali M
+yor_Latn Yoruba H
+yre_Latn Yaouré M
+yua_Latn Yucateco M
+yue_Hans Yue Chinese H
+yue_Hant Yue Chinese M
+yuz_Latn Yuracare M
+yva_Latn Yawa M
+zaa_Latn Sierra de Juárez Zapotec M
+zab_Latn Western Tlacolula Valley Zapotec M
+zac_Latn Ocotlán Zapotec L
+zad_Latn Cajonos Zapotec M
+zae_Latn Yareni Zapotec M
+zai_Latn Isthmus Zapotec M
+zam_Latn Miahuatlán Zapotec L
+zao_Latn Ozolotepec Zapotec M
+zaq_Latn Aloápam Zapotec H
+zar_Latn Rincón Zapotec M
+zas_Latn Santo Domingo Albarradas Zapotec M
+zav_Latn Yatzachi Zapotec L
+zaw_Latn Mitla Zapotec M
+zca_Latn Coatecas Altas Zapotec M
+zga_Latn Kinga H
+zim_Latn Mesme M
+ziw_Latn Zigula M
+zmz_Latn Mbandja M
+zne_Latn Zande (individual language) M
+zoc_Latn Copainalá Zoque L
+zoh_Latn Chimalapa Zoque L
+zor_Latn Rayón Zoque L
+zos_Latn Francisco León Zoque M
+zpc_Latn Choapan Zapotec H
+zpg_Latn Guevea De Humboldt Zapotec M
+zpi_Latn Santa María Quiegolani Zapotec M
+zpl_Latn Lachixío Zapotec M
+zpm_Latn Mixtepec Zapotec M
+zpo_Latn Amatlán Zapotec M
+zpt_Latn San Vicente Coatlán Zapotec M
+zpu_Latn Yalálag Zapotec M
+zpv_Latn Chichicapan Zapotec L
+zpy_Latn Mazaltepec Zapotec L
+zpz_Latn Texmelucan Zapotec M
+zsm_Latn Standard Malay H
+ztg_Latn Xanaguía Zapotec L
+ztn_Latn Santa Catarina Albarradas Zapotec L
+ztp_Latn Loxicha Zapotec L
+ztq_Latn Quioquitani-Quierí Zapotec M
+zts_Latn Tilquiapan Zapotec L
+ztu_Latn Güilá Zapotec L
+zty_Latn Yatee Zapotec M
+zul_Latn Zulu H
+zyb_Latn Yongbei Zhuang M
+zyp_Latn Zyphe Chin M
+zza_Latn Zaza L
+Table 25 Full list of languages supported by Omnilingual ASR, including language code, English name, and resource
+

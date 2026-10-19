@@ -1,0 +1,13 @@
+-r requirements.txt
+uroman
+pykakasi
+pypinyin
+pycantonese
+joblib
+sox
+openai
+tiktoken
+scikit-learn
+matplotlib
+seaborn
+transformers

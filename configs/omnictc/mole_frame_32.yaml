@@ -1,0 +1,49 @@
+# Config: omnictc/mole_frame_32.yaml
+# Used by train.py / inference.py via --config_path.
+model:
+  encoder:
+    extractor_mode: layer_norm
+    extractor_conv_layer_config:
+      - [512, 10, 5]
+      - [512, 3, 2]
+      - [512, 3, 2]
+      - [512, 3, 2]
+      - [512, 3, 2]
+      - [512, 2, 2]
+      - [512, 2, 2]
+    extractor_conv_bias: true
+    encoder_embed_dim: 1024
+    encoder_projection_dropout: 0.0
+    encoder_pos_conv_kernel: 128
+    encoder_pos_conv_groups: 16
+    encoder_num_layers: 24
+    encoder_num_heads: 16
+    encoder_attention_dropout: 0.0
+    encoder_ff_interm_features: 4096
+    encoder_ff_interm_dropout: 0.0
+    encoder_dropout: 0.0
+    encoder_layer_norm_first: true
+    encoder_layer_drop: 0.0
+    lora_config: mole
+    moe_mode: frame
+    moe_pooling_type: asp
+    moe_loss_type: hard
+    moe_alpha: 0.01
+    moe_topk: 1
+    n_experts: 32
+    is_agnostic: True
+    calibration_factor: 0.5
+    rank: 32
+    alpha: 64
+    mole_rank: 32
+    mole_alpha: 64
+    lora_type: qkvo
+    lora_start_layer: 0
+    mole_start_layer: 12
+    apply_lora_to_ffn: True 
+    apply_mole_to_ffn: True 
+    ckpt_path: checkpoints/pretrained/omniasr-300m.pt
+
+  decoder:
+    vocab_path: vocabs/grapheme.json
+    d_model: 1024

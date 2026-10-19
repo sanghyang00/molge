@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+wandb/
+logs/
+outputs/
+results/
+results_router/
+
+csvs/
+csvs_omni/
+
+# Released model weights: download from Hugging Face
+#   hf download Sanghyang00/molge-checkpoints --local-dir checkpoints
+checkpoints/**/*.pt
+checkpoints/.cache/
+*.pt.bak

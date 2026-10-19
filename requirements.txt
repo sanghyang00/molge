@@ -1,0 +1,9 @@
+torch
+torchaudio
+numpy
+pandas
+pyyaml
+tqdm
+jiwer
+wandb
+huggingface_hub
