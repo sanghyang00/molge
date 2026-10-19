@@ -136,7 +136,7 @@ python train.py \
 
 OmniCTC: add `--omnictc`, use `configs/omnictc/...`, `--data_dir csvs_omni`, and `checkpoints/pretrained/omniasr_ctc_fullft_original.pt`.
 
-Checkpoints are written to `outputs/{lamaut,omnictc}/<config>-<augmentation>/`.
+Checkpoints are written under `outputs/lamaut/` or `outputs/omnictc/`, in a folder named `{config}-{augmentation_flag}/`.
 
 ## Language groups
 

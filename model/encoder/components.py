@@ -223,7 +223,11 @@ class ConvolutionalPositionalEmbedding(Module):
             groups=groups,
         )
 
-        self.conv = nn.utils.parametrizations.weight_norm(self.conv, name="weight", dim=2)
+        try:
+            weight_norm = nn.utils.parametrizations.weight_norm
+        except AttributeError:  # torch < 2.1
+            weight_norm = nn.utils.weight_norm
+        self.conv = weight_norm(self.conv, name="weight", dim=2)
         self.num_remove: int = 1 if kernel_size % 2 == 0 else 0
 
     def __prepare_scriptable__(self):
