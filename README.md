@@ -1,4 +1,4 @@
-# MoLGE
+# MoLGE: Mixture of Language Group Experts for Efficient Scaling of Massively Multilingual Speech Recognition
 
 Official code for **MoLGE: Mixture of Language Group Experts for Efficient Scaling of Massively Multilingual Speech Recognition** (COLM 2026).
 
